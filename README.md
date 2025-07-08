@@ -26,15 +26,13 @@ This repository demonstrates my understanding of Static Timing Analysis (STA) by
 
 **Timing Diagram for Setup Violation:**
 
-*(Insert diagram image or draw.io link)*
+![Timing Diagram](setup_timing_diagram.png)
 
----
 
 ## 📁 Files
 - `dummy_sta_report.txt` – Sample report
 - `README.md` – Analysis and fixes
 
----
 
 ## ✨ Future Work
 - Add hold violation example
