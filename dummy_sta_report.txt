@@ -1,0 +1,17 @@
+Startpoint: REG_A (CLK)
+Endpoint: REG_B (D)
+Path Type: setup
+
+Point               Arrival    
+----------------------------------------------
+CLK launch edge     0.00ns
+Clock path delay    0.6ns
+launch ff delay     0.8ns
+Data path delay     1.7ns
+Clock capture edge  2.00ns
+Capture clk delay   0.6ns
+Setup time          0.1ns
+arrival time (AT)   3.1ns
+required time (RT)  2.5ns
+----------------------------------------------
+Setup Slack:        -0.6ns (Violation)
