@@ -26,7 +26,8 @@ This repository demonstrates my understanding of Static Timing Analysis (STA) by
 
 **Timing Diagram for Setup Violation:**
 
-![Timing Diagram](reg-reg_path_diagram)
+![Timing Diagram](reg-reg_path_diagram.png)
+
 
 
 ## 📁 Files
